@@ -2,7 +2,7 @@
 #btn{
 	background:black;
 	color:white;
-	border-radisu:5px;
+	border-radius:5px;
 }
 #btn:hover{
 	background:yellow;
